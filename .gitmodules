@@ -1,0 +1,3 @@
+[submodule "galaxy-sample-role1"]
+	path = galaxy-sample-role1
+	url = git@github.com:seanbotestorg2/galaxy-sample-role1.git
